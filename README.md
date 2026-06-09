@@ -17,3 +17,8 @@ This is my Git practice repository.
 ## Author
 Alfred Ntaganda
 
+
+
+# njesus05
+
+This is a simple repository for Git branch practice and testing.
